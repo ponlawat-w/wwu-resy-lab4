@@ -32,4 +32,4 @@ target.aff <- transform8(source, aff.a0, aff.b0, aff.a1, aff.b1, aff.a2, aff.b2)
 target.sim;
 target.aff;
 # Similarity: 3404309, 5760887
-# Affine:　　3404330, 576088
+# Affine:     3404330, 5760881
